@@ -1,0 +1,1 @@
+{"name":"@united-robotics/plugin-mission-control","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test tests/*.test.mjs","check":"npm run build && npm test"},"dependencies":{"react":"19.1.1","react-dom":"19.1.1","ag-grid-community":"34.3.1","ag-grid-react":"34.3.1"},"devDependencies":{"esbuild":"0.25.9"}}
